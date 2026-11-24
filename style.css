@@ -1,0 +1,35 @@
+.images{
+    height : 200px;
+    width : 200px;
+    cursor :pointer;
+}
+#u_s{
+    color :rgb(12, 129, 16);
+    font-weight:700px;
+
+}
+#ai_s{
+    color: rgb(54, 32, 150);
+    font-weight:700px;
+}
+div{
+    height:600px;
+    width: 700px;
+    border: 6px solid black;
+   border-radius:20px;
+}
+
+#user{
+    color:rgb(6, 65, 75);
+    font-weight:500px;
+}
+
+#ai{
+    color: rgb(6, 65, 75);
+    font-weight:500px;
+}
+
+#winner{
+    color:brown;
+    font-weight:200px;
+}
